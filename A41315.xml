@@ -1,0 +1,2258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summary of the common law of England as it stood in force, before it was altered by statute or acts of Parliament / extracted (for the most part) out of the French and English copies of Sir Henry Finch, Kt., his learned treatise of the law, and digested into certain tablets for the help and delight of such students as affect method.</title>
+            <author>Finch, Henry, Sir, d. 1625.</author>
+         </titleStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41315</idno><idno type="EEBO-CITATION">11863677</idno>
+  <idno type="VID">50062</idno>
+  <idno type="EEBO-PROQUEST">2248517735</idno>
+  
+            <idno type="STC">Wing F933</idno>
+            <idno type="STC">ESTC R17784</idno>
+            <idno type="OCLC">11863677</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summary of the common law of England as it stood in force, before it was altered by statute or acts of Parliament / extracted (for the most part) out of the French and English copies of Sir Henry Finch, Kt., his learned treatise of the law, and digested into certain tablets for the help and delight of such students as affect method.</title>
+                  <author>Finch, Henry, Sir, d. 1625.</author>
+               </titleStmt>
+               <extent>[4], 47, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Common law --  Great Britain.</term>
+               <term type="topical_term">Legal maxims --  Great Britain.</term>
+               <term type="topical_term">Law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50062:1"/>
+            <pb facs="tcp:50062:1"/>
+            <p>A SUMMARY OF THE <hi>COMMON LAW</hi> OF England.</p>
+            <p>As it stood in force, before it was altered by Statute or Acts of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xtracted (for the most part) out of the French and English Copies of Sir <hi>HENRY FINCH,</hi> K<seg rend="sup">t.</seg> his Learned Treatise of the <hi>LAW.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd digested into certain, Tablets for the help and delight of such Students, as affect Method.</p>
+            <q>Methodus Memoriae Dux &amp; Fulcrum<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </q>
+            <p>
+               <hi>LONDON:</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted <hi>Anno Salutis,</hi> 16<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50062:2"/>
+            <pb facs="tcp:50062:2"/>
+            <head>AN ADVERTISEMENT TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Science of the <hi>Common Law</hi> of <hi>England,</hi> hath not only been in former times, but even at this day, is ac<g ref="char:EOLhyphen"/>counted so abstruse and in<g ref="char:EOLhyphen"/>tricate, that it hath alwayes seemed an Impossibility to reduce it to me<g ref="char:EOLhyphen"/>thod: Howbeit, our learned Author in his Treatise of the Law, hath not only clothed it with a <hi>Logical</hi> method, but with such an <hi>ex<g ref="char:EOLhyphen"/>act</hi> one, as may be paralleld with (if not ex<g ref="char:EOLhyphen"/>tolled above) that of <hi>Wollebius</hi> for Theolo<g ref="char:EOLhyphen"/>gie, <hi>Ramus</hi> for Geometry, <hi>Keckerman, Al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tedius,</hi> and other modern Writers, for Lo<g ref="char:EOLhyphen"/>gick, Ethiques, Physiques, Politiques, Ma<g ref="char:EOLhyphen"/>thematiques, &amp;c. So as the Student having treasured up in his memory the common pla<g ref="char:EOLhyphen"/>ces of Law held forth in these <hi>Tablets,</hi> toge<g ref="char:EOLhyphen"/>ther with their coherence and dependance one upon another, may be thereby furnished with all the generall and necessary Titles of Law,
+<pb facs="tcp:50062:3"/> whereunto he may aptly refer any Case<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> meets with, especially, having also bef<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hand, by perusing the Treatise at large<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>quainted himselfe with the definitions,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>stributions, affections, Rules and Exampl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> respectively belonging to each severall Tit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whereby he may more perfectly understa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the nature of them. Besides, if the Text not read with these <hi>Tablets,</hi> he will m<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with diverse things in them which are n<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> abrogated by Statute, and so not Law at t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> day, as <hi>Sanctuaries,</hi> which are now annul<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by <hi>21 Jac. 28.</hi> diverse offences (befor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Pety Treason,</hi> now by Statute made <hi>Hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Treason,</hi> and the like. All which is left his industry and discretion: the scope a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> designe of this <hi>Summary</hi> being only to she<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him the Harmonicall frame of the origin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Common Law before it was altered by Statu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Acts of Parliament, and other Constitutio<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of State, according to the caution before<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Title Page premised.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="table">
+            <pb facs="tcp:50062:3"/>
+            <head>
+               <hi>TABLE</hi> 1.</head>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>w of <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gland,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>serve
+<list>
+                  <item>1. The Circumstances, <hi>viz.</hi>
+                     <list>
+                        <item>The place, where it is used, <hi>viz.</hi> throughout the Realm of <hi>England,</hi> divided into Counties, Hundreds, and Towns, within which there are di<g ref="char:EOLhyphen"/>verse usages, differing from the Com<g ref="char:EOLhyphen"/>mon Law, called Customes.</item>
+                        <item>The persons, who are to use it, and they are to be considered
+<list>
+                              <item>As one entire body
+<list>
+                                    <item>The King</item>
+                                    <item>His Sub<g ref="char:EOLhyphen"/>jects,
+<list>
+                                          <item>Barons.</item>
+                                          <item>Commons</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>As particular persons
+<list>
+                                    <item>Naturall persons, as every man.</item>
+                                    <item>Bodies politique
+<list>
+                                          <item>At the Com. Law
+<list>
+                                                <item>The King alone, and by himself considered.</item>
+                                                <item>The Rector of a Church or Par<g ref="char:EOLhyphen"/>son.</item>
+                                             </list>
+                                          </item>
+                                          <item>Grown of later time,
+<list>
+                                                <item>Temporal, as Ma<g ref="char:EOLhyphen"/>jor and Com<g ref="char:EOLhyphen"/>minalty, &amp;c.</item>
+                                                <item>Spirituall
+<list>
+                                                      <item>Regular, as Abbot and Covent, &amp;c.</item>
+                                                      <item>Secular, as Bishop and Chapter, &amp;c.</item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2, The parts, See <hi>Tab.</hi> 2.</item>
+                  <item>3. The common affection, <hi>viz.</hi> action, <hi>Tab.</hi> 23.</item>
+               </list>
+            </p>
+         </div>
+         <div n="2" type="table">
+            <pb facs="tcp:50062:4"/>
+            <head>
+               <hi>TABLE</hi> 2:</head>
+            <p>The parts of the common Law are two,
+<list>
+                  <item>The one concerns Possessions, whereof consider
+<list>
+                        <item>The generall affections
+<list>
+                              <item>1. To Possessions this is general, that they may passe by
+<list>
+                                    <item>Grant.</item>
+                                    <item>Exchange.</item>
+                                    <item>Prescription.</item>
+                                 </list>
+                              </item>
+                              <item>2. Sundry men possessing the same thing by purchase, are
+<list>
+                                    <item>Joynt Tenants, who possesse by the same title.</item>
+                                    <item>Tenants in com<g ref="char:EOLhyphen"/>mon, who pos<g ref="char:EOLhyphen"/>sesse by severall titles.</item>
+                                 </list>
+                              </item>
+                              <item>3. A posses<g ref="char:EOLhyphen"/>sion is ei<g ref="char:EOLhyphen"/>ther
+<list>
+                                    <item>Restrictive, upon
+<list>
+                                          <item>Limitation, which ceaseth upon do<g ref="char:EOLhyphen"/>ing or not doing of something.</item>
+                                          <item>Condition, which is only defeasable upon the doing o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                                <desc>•…</desc>
+                                             </gap> not doing of som<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                                <desc>•…</desc>
+                                             </gap>
+                                             <g ref="char:EOLunhyphen"/>thing.</item>
+                                       </list>
+                                    </item>
+                                    <item>Absolute, which is nei<g ref="char:EOLunhyphen"/>ther upon limitation or condition.</item>
+                                 </list>
+                              </item>
+                              <item>4. <hi>Tab.</hi> 3.</item>
+                           </list>
+                        </item>
+                        <item>The species, or severall kindes, <hi>Tab.</hi> 4.</item>
+                     </list>
+                  </item>
+                  <item>The other, the punishment of offences, <hi>Tab.</hi> 12.</item>
+               </list>
+            </p>
+         </div>
+         <div n="3" type="table">
+            <pb facs="tcp:50062:4"/>
+            <head>
+               <hi>TABLE</hi> 3.</head>
+            <p n="4">4. Possessions are either in
+<list>
+                  <item>Possession, <hi>viz.</hi> such as one doth enjoy.</item>
+                  <item>Action, touching which consider
+<list>
+                        <item>1. How it ari<g ref="char:EOLhyphen"/>seth, &amp; that is in respect of a
+<list>
+                              <item>Right, when wrong was done before.</item>
+                              <item>Title, when no wrong was done.</item>
+                           </list>
+                        </item>
+                        <item>2 The Rules w<seg rend="sup">ch</seg> con<g ref="char:EOLhyphen"/>cern it
+<list>
+                              <item>1. A thing in a<g ref="char:EOLhyphen"/>ction cānot be granted, but to him in possessi<g ref="char:EOLhyphen"/>on, &amp; that by
+<list>
+                                    <item>Releas, which is the passing of the gran<g ref="char:EOLhyphen"/>tors Interest.</item>
+                                    <item>Confirmation, w<seg rend="sup">ch</seg> is the ratifying of the grantees possession.</item>
+                                 </list>
+                              </item>
+                              <item>2. The grant of a thing in action, and of such things in possession, as cannot passe by livery of the hand, must be by Deed. <hi>viz.</hi>
+                                 <list>
+                                    <item>Deed Pol, which is the only deed of the Grantor.</item>
+                                    <item>Indenture, which is the mutuall deed of both, and makes an E<g ref="char:EOLhyphen"/>stopel to both parties.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="4" type="table">
+            <pb facs="tcp:50062:5"/>
+            <head>
+               <hi>TABLE</hi> 4.</head>
+            <list>
+               <item>The several kinds of Possessions, &amp; so a Pos. is
+<list>
+                     <item>An Hereditament whereof consider
+<list>
+                           <item>The severall Estates, <hi>viz.</hi>
+                              <list>
+                                 <item>Particular, <hi>viz.</hi>
+                                    <list>
+                                       <item>Uncertain
+<list>
+                                             <item>At sufferance, when afrer law<g ref="char:EOLhyphen"/>full occupation he continu<g ref="char:EOLhyphen"/>eth possession without au<g ref="char:EOLhyphen"/>thority.</item>
+                                             <item>At will
+<list>
+                                                   <item>According to the custom, as a Copiholder.</item>
+                                                   <item>At pleasure, as a bare Te<g ref="char:EOLhyphen"/>nant at will.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>Certain, which is also called a term, whereof consider
+<list>
+                                             <item>The dependants
+<list>
+                                                   <item>Remainder, w<seg rend="sup">ch</seg> is the residue of an estate at the same time appointed o<g ref="char:EOLhyphen"/>ver.</item>
+                                                   <item>Reversion, which is the residue of an estate, not at the same time ap<g ref="char:EOLhyphen"/>pointed over.</item>
+                                                </list> These passe with Attornement.</item>
+                                             <item>The severall kindes.
+<list>
+                                                   <item>For years.</item>
+                                                   <item>For life
+<list>
+                                                         <item>In deed after actual seisin.</item>
+                                                         <item>In Law before entry</item>
+                                                         <item>For his own life.</item>
+                                                         <item>For ano<g ref="char:EOLhyphen"/>thers life, &amp; these are</item>
+                                                      </list> Freehold These pass by surrēder</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>Inheritance. <hi>Tab.</hi> 5.</item>
+                              </list>
+                           </item>
+                           <item>The seuerall kindes. <hi>Tab.</hi> 6.</item>
+                        </list>
+                     </item>
+                     <item>Chattel. <hi>Tab.</hi> 11.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="5" type="table">
+            <pb facs="tcp:50062:5"/>
+            <head>
+               <hi>TABLE</hi> 5.</head>
+            <list>
+               <item>Inheri<g ref="char:EOLhyphen"/>tance, whereof consider
+<list>
+                     <item>The estate called fee-simple, which is
+<list>
+                           <item>Conditionall, when an Here<g ref="char:EOLhyphen"/>ditament is limited to the heires of the body: Hither Frank-marriage may be re<g ref="char:EOLhyphen"/>ferred.</item>
+                           <item>Absolute, which is a fee simple to one and his heirs whatso<g ref="char:EOLhyphen"/>ever.</item>
+                        </list>
+                     </item>
+                     <item>The inci<g ref="char:EOLhyphen"/>dents
+<list>
+                           <item>Dower, whereby a woman hath the thirds in severalty.</item>
+                           <item>Tenancie, by the courresie of <hi>England.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The diverse manners of posses<g ref="char:EOLhyphen"/>sing it, <hi>viz.</hi> in
+<list>
+                           <item>Deed.</item>
+                           <item>Law.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="6" type="table">
+            <head>
+               <hi>TABLE</hi> 6.</head>
+            <list>
+               <item>The seve<g ref="char:EOLhyphen"/>rall kinds of an He<g ref="char:EOLhyphen"/>reditamēt, and so it is
+<list>
+                     <item>Common, as
+<list>
+                           <item>A Tene<g ref="char:EOLhyphen"/>ment, w<seg rend="sup">ch</seg> is a posses<g ref="char:EOLhyphen"/>sion holdē, and it is
+<list>
+                                 <item>Land, which is a Tenemēt in manuall occupation, and here prescription hath no place.</item>
+                                 <item>An Advowson, which is the interest of presenting to a Church.</item>
+                              </list>
+                           </item>
+                           <item>A bare hereditament, <hi>Tab.</hi> 7.</item>
+                        </list>
+                     </item>
+                     <item>Prerogative. <hi>Tab.</hi> 10.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="7" type="table">
+            <pb facs="tcp:50062:6"/>
+            <head>
+               <hi>TABLE</hi> 7.</head>
+            <list>
+               <item>A bare Hereditament, which concerns
+<list>
+                     <item>Land, and so it is
+<list>
+                           <item>Leviable by distresse, as
+<list>
+                                 <item>A Seigniorie, which is a service, whereby Land is holden, and such services are
+<list>
+                                       <item>Common to all certain Estates
+<list>
+                                             <item>Fealtie.</item>
+                                             <item>Rent service: Hither also may be referred Frankal<g ref="char:EOLhyphen"/>moigne, and Divine Ser<g ref="char:EOLhyphen"/>vice.</item>
+                                          </list>
+                                       </item>
+                                       <item>Proper to Inheritance
+<list>
+                                             <item>Generall
+<list>
+                                                   <item>Homage.</item>
+                                                   <item>Suite of Court.</item>
+                                                </list>
+                                             </item>
+                                             <item>Particular, whereby Lands are distinguished
+<list>
+                                                   <item>The Servi<g ref="char:EOLhyphen"/>ces them<g ref="char:EOLhyphen"/>selves,
+<list>
+                                                         <item>Soccage.</item>
+                                                         <item>Knight Ser<g ref="char:EOLhyphen"/>vice.</item>
+                                                      </list>
+                                                   </item>
+                                                   <item>The Inci<g ref="char:EOLhyphen"/>dents,
+<list>
+                                                         <item>In the Lords life<g ref="char:EOLhyphen"/>time, as rea<g ref="char:EOLhyphen"/>sonable Ayde.</item>
+                                                         <item>After his death, as Wardship and Relief.</item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>A Rent charge, which is a rent with liberty to distrain, upon the grant or reservati<g ref="char:EOLhyphen"/>on of a certain Rent to be issuing out of Land.</item>
+                              </list>
+                           </item>
+                           <item>Such as cannot be distrained for. <hi>Tab.</hi> 8.</item>
+                        </list>
+                     </item>
+                     <item>The person. <hi>Tab.</hi> 9.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="8" type="table">
+            <pb facs="tcp:50062:6"/>
+            <head>
+               <hi>TABLE</hi> 8.</head>
+            <list>
+               <item>A bare Hereditament concerning Land, for which no distress can be taken, is
+<list>
+                     <item>Rent secke, which is a rent with<g ref="char:EOLhyphen"/>out liberty to distrain.</item>
+                     <item>Common, which is a profit to be taken in anothers land: whither also may be referred Estovers, Houseboot, &amp;c. Also a way over Land, liberty to Fish, Hunt, draw water, or the like.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="9" type="table">
+            <head>
+               <hi>TABLE</hi> 9.</head>
+            <list>
+               <item>A bare heredi<g ref="char:EOLhyphen"/>tament, that concerns the person, is
+<list>
+                     <item>Of the person himselfe, as a Villein.</item>
+                     <item>By reason of the per<g ref="char:EOLhyphen"/>son, <hi>viz.</hi>
+                        <list>
+                           <item>An Annuity, which is a yearly rent to be had of the person of the grantor.</item>
+                           <item>A Corodie, which is a por<g ref="char:EOLhyphen"/>tion for ones sustenance or cloathing.</item>
+                           <item>An Office, which is a duty of attendance upon a charge.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="10" type="table">
+            <pb facs="tcp:50062:7"/>
+            <head>
+               <hi>TABLE</hi> 10.</head>
+            <p>A Prerogative hereditament, which is derived from the Kings prerogative, and is termed a Franchise, being a Royall priviledge in the hands of a Subject; as Mar<g ref="char:EOLhyphen"/>kets, Faires, Toll, and whatsoever liberties else, which (created at first by the Kings speciall grant, or of their own nature belonging to him) are given to a common person to have an estate in: Of this sort also are Exe<g ref="char:EOLhyphen"/>cution and Return of Writs, forfeited Recognizances, Fines, Post-fines, Issues, Amerciaments, and other Green wax money within such a Precinct or Liberty. Also pow<g ref="char:EOLhyphen"/>er there to make a Coroner, Clerk of the Market, and other Officers; to have therein Treasure, Trove, Deo<g ref="char:EOLhyphen"/>dands, Wreck of the Sea, Waifes, Estrayes, the goods of Felons, and outlawed persons, Royall mines, Royall Fish; to keep a Leet, to take Conusance of Fines, to hold plea of debts and damages, Sans summe, and the like.</p>
+         </div>
+         <div n="11" type="table">
+            <pb facs="tcp:50062:7"/>
+            <head>
+               <hi>TABLE</hi> 11.</head>
+            <list>
+               <item>A Chattel, wherein there can<g ref="char:EOLhyphen"/>not be se<g ref="char:EOLhyphen"/>verall e<g ref="char:EOLhyphen"/>states whereof consider
+<list>
+                     <item>The common affection, <hi>viz.</hi> That all ones own Chattels (whether in possession or a<g ref="char:EOLhyphen"/>ction, as debts, &amp;c.) may be devised by Te<g ref="char:EOLhyphen"/>stament, which is the appointment of an Executor to administer them for him after his death.</item>
+                     <item>The severall kindes, and so it is
+<list>
+                           <item>Real, as a term for years, or Wardship.</item>
+                           <item>Personall, to which diverse things belong.
+<list>
+                                 <item>In generall
+<list>
+                                       <item>Bailment, which is the delivery of goods
+<list>
+                                             <item>To keepe, when only the custo<g ref="char:EOLhyphen"/>die is com<g ref="char:EOLhyphen"/>mitted to him, and that is
+<list>
+                                                   <item>A simple bailement, when he re<g ref="char:EOLhyphen"/>ceiveth them to keepe for another.</item>
+                                                   <item>A Pledge, when he re<g ref="char:EOLhyphen"/>ceiveth them for another thing had of him at the time.</item>
+                                                </list>
+                                             </item>
+                                             <item>To employ, as when the Bailee hath the things to use for anothers profit.</item>
+                                          </list>
+                                       </item>
+                                       <item>Contract, which is a mutu<g ref="char:EOLhyphen"/>all agreement for the very property of personal things.</item>
+                                    </list>
+                                 </item>
+                                 <item>In particular, <hi>viz.</hi> for the In<g ref="char:EOLhyphen"/>terest of things uncertain, as
+<list>
+                                       <item>Accord, which is an agreement of the parties them<g ref="char:EOLhyphen"/>selves upon sa<g ref="char:EOLhyphen"/>tisfaction exe<g ref="char:EOLhyphen"/>cuted.</item>
+                                       <item>Arbitrement, w<seg rend="sup">ch</seg> is an award of sa<g ref="char:EOLhyphen"/>tisfaction by o<g ref="char:EOLhyphen"/>thers.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="12" type="table">
+            <pb facs="tcp:50062:8"/>
+            <head>
+               <hi>TABLE</hi> 12.</head>
+            <list>
+               <item>Punishment of Offences, which are
+<list>
+                     <item>Without force, as
+<list>
+                           <item>Trespasse upon the Case
+<list>
+                                 <item>Common, as
+<list>
+                                       <item>Misuser, when by wrong one is endamaged, as by slander, or the like, a<g ref="char:EOLhyphen"/>mongst which observe
+<list>
+                                             <item>Disturbance, w<seg rend="sup">ch</seg> is the hindering of that, which be<g ref="char:EOLhyphen"/>longeth to one to do.</item>
+                                             <item>Nusance, which is an annoyance done to ones Hereditament.</item>
+                                          </list>
+                                       </item>
+                                       <item>Deceit, when the damage groweth by an undue sleight or the like.</item>
+                                       <item>Conspiracie, where two or more conspire to do one wrong, or the like.</item>
+                                    </list>
+                                 </item>
+                                 <item>Offences in the nature of Trespasses up<g ref="char:EOLhyphen"/>on the Case, which are (by the Kings prerogative) punishable like to them, <hi>viz.</hi> by amerciament; as Nonsuit in an action; Fault in the original Writ he brings; Or (by the sheriffe) in the return thereof; Making default, when he should appear; And what<g ref="char:EOLhyphen"/>soever other offences (not being with force) which offer no direct in jury to a common person.</item>
+                              </list>
+                           </item>
+                           <item>Reall wrong, <hi>Tab.</hi> 13.</item>
+                        </list>
+                     </item>
+                     <item>Coupled with force. <hi>Tab.</hi> 14.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="13" type="table">
+            <pb facs="tcp:50062:8"/>
+            <head>
+               <hi>TABLE</hi> 13.</head>
+            <list>
+               <item>A re<g ref="char:EOLhyphen"/>all wrōg is
+<list>
+                     <item>Discontinuance, when one having an Estate Taile or Feesimple in anothers right, maketh a larger Estate of the land, then he may.</item>
+                     <item>Ouster, When a Freeholder is put out, as
+<list>
+                           <item>Of the first sort
+<list>
+                                 <item>Disseisin of
+<list>
+                                       <item>Land when one is put or held out by a forcible
+<list>
+                                             <item>Entry.</item>
+                                             <item>Detainer.</item>
+                                          </list>
+                                       </item>
+                                       <item>Rent, as
+<list>
+                                             <item>In every rent by
+<list>
+                                                   <item>Incloser.</item>
+                                                   <item>Forstaller.</item>
+                                                </list>
+                                             </item>
+                                             <item>In rent service &amp; rent charge by
+<list>
+                                                   <item>Rescous.</item>
+                                                   <item>Replevin.</item>
+                                                </list>
+                                             </item>
+                                             <item>In rent charge and rent secke, by denier.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>Usurpation, when the Church becom<g ref="char:EOLhyphen"/>eth full by the presentment of a wrong Patron.</item>
+                              </list>
+                           </item>
+                           <item>Of the secōd sort,
+<list>
+                                 <item>Intrusion, Which is after the death of the Tenant for life.</item>
+                                 <item>Abatement, Which is after the death of one that had the In<g ref="char:EOLhyphen"/>heritance.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="14" type="table">
+            <pb facs="tcp:50062:9"/>
+            <head>
+               <hi>TABLE</hi> 14.</head>
+            <list>
+               <item>Wrongs coupled with force, &amp; they are
+<list>
+                     <item>Not punishable by death,
+<list>
+                           <item>Trespasses, and they touch
+<list>
+                                 <item>Pos<g ref="char:EOLhyphen"/>sessi<g ref="char:EOLhyphen"/>ons, as in
+<list>
+                                       <item>Goods, which is the wrong full taking of them wit<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                             <desc>•…</desc>
+                                          </gap> pretence of title.</item>
+                                       <item>Land, when it is done upon an actual possession there<g ref="char:EOLhyphen"/>of.</item>
+                                    </list>
+                                 </item>
+                                 <item>The person, and so Trespasses are
+<list>
+                                       <item>With pre<g ref="char:EOLhyphen"/>tēce of vi<g ref="char:EOLhyphen"/>olence, as
+<list>
+                                             <item>Menaces, w<seg rend="sup">ch</seg> are threatning words of beating one, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                                   <desc>•</desc>
+                                                </gap> the like.</item>
+                                             <item>Assault, which is an unlawfull set<g ref="char:EOLhyphen"/>ting upon ones person.</item>
+                                          </list>
+                                       </item>
+                                       <item>With violence indeed, as
+<list>
+                                             <item>False Imprisonment, w<seg rend="sup">ch</seg> is an unlawfull restraint of liberty.</item>
+                                             <item>Bodily hurts, &amp; they are
+<list>
+                                                   <item>Outward violencies
+<list>
+                                                         <item>Batterie, which is the wrongfull beating of one.</item>
+                                                         <item>Mayhem, which is the wrongfull spoiling of a member defen<g ref="char:EOLhyphen"/>sible in fight.</item>
+                                                      </list>
+                                                   </item>
+                                                   <item>Rape, which is the carnall abusing of a woman against her will.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Offences against the publique, <hi>Tab.</hi> 15.</item>
+                        </list>
+                     </item>
+                     <item>Punishable by death, <hi>Tab.</hi> 20.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="15" type="table">
+            <pb facs="tcp:50062:9"/>
+            <head>
+               <hi>TABLE</hi> 15.</head>
+            <list>
+               <item>Offences against the pub<g ref="char:EOLhyphen"/>lique, and they are
+<list>
+                     <item>Against the King, which are called con<g ref="char:EOLhyphen"/>tempts, as
+<list>
+                           <item>1. To disobey the Kings com<g ref="char:EOLhyphen"/>mand
+<list>
+                                 <item>By his Writ.</item>
+                                 <item>By his Pro<g ref="char:EOLhyphen"/>clamation.</item>
+                              </list>
+                           </item>
+                           <item>2. To disobey any thing or<g ref="char:EOLhyphen"/>dained by Statute.</item>
+                        </list>
+                     </item>
+                     <item>Against the Cōmon wealth, <hi>viz.</hi> against
+<list>
+                           <item>1. The peace thereof, as Riots, Routs, unlawfull Assemblies, breach of the peace, and Good behaviour, false news, Barra<g ref="char:EOLhyphen"/>tring, Eves-dropping, &amp;c. Al<g ref="char:EOLhyphen"/>so all trespasses with force, for which a man may both be both indicted, and prosecuted at Law by the suite of the partie.</item>
+                           <item>2. The strength, as to send aide to the Kings enemies, to go beyond sea without the Kings Licence, &amp;c.</item>
+                           <item>3. The Justice, <hi>Tab.</hi> 16.</item>
+                           <item>4. The Wealth, <hi>Tab.</hi> 18.</item>
+                           <item>5. The Passages. <hi>Tab.</hi> 19.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="16" type="table">
+            <pb facs="tcp:50062:10"/>
+            <head>
+               <hi>TABLE</hi> 16.</head>
+            <list>
+               <item>3. Publique Offences against the Ju<g ref="char:EOLhyphen"/>stice of the Comon wealth; as
+<list>
+                     <item>1. Perverting of Justice, as Corrupt Judg<g ref="char:EOLunhyphen"/>es, who pervert Justice; Corrupt or neg<g ref="char:EOLunhyphen"/>ligent Officers; Enditors, Corrupt Jurors Extortion; Escapes, negligent and vo<g ref="char:EOLunhyphen"/>luntary. &amp;c.</item>
+                     <item>2. All force against the Justice of the Realm as Rescous of a Fellon or others; Affraie<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> in disturbance of Justice; to go arme<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> in the Kings Palace: To strike in <hi>Westmin<g ref="char:EOLunhyphen"/>ster</hi> Hall, for which he shall lose his righ<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> hand; so shall he that strikes a Juror i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> the presence of the Justices, and be al<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> committed to perpetuall Imprisonment.</item>
+                     <item>3. Conventicles, which comprehend con<g ref="char:EOLunhyphen"/>spirators and confederators, Maintenanc<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Champartie, &amp;c.</item>
+                     <item>4. Offences in favour of Malefactors. <hi>Tab</hi> 17.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="17" type="table">
+            <pb facs="tcp:50062:10"/>
+            <head>
+               <hi>TABLE</hi> 17.</head>
+            <p n="4">4. Offences in favour of Malefactors, as Misprisions of Treason or Felonie, which for Treason is perpetuall <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mprisonment: Theft-boot, when a man receives his goods from a Theefe, with purpose to favour and main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ain him; here the punishment is Ransome and Impri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onment; not assisting the Sheriffe, Constable, or other Officer, &amp;c.</p>
+            <p n="5">5. Contempt of Justice, as he that flies for Treason or Felonie: He that in case of Treason or Felonie tarries <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Exigent; He that suffers himselfe to be outlawed, &amp;c.</p>
+            <p n="6">6. Falsifying of Justice, as Perjury, Subornation, For<g ref="char:EOLhyphen"/>gery, Embracery: all other Falshood in matter of Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tice, &amp;c.</p>
+         </div>
+         <div n="18" type="table">
+            <head>
+               <hi>TABLE</hi> 18.</head>
+            <list>
+               <item>4. Publique Offēces against <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he wealth of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Common<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ealth, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat may be
+<list>
+                     <item>In the course of Trade, as
+<list>
+                           <item>1. To transport the commo<g ref="char:EOLhyphen"/>dities of the Realm with<g ref="char:EOLhyphen"/>out the Kings Licence, &amp; paying his Custome; Fore<g ref="char:EOLhyphen"/>stallers, Regradors, and Ingrossers, Monopolies, Conspiracies of Mer<g ref="char:EOLhyphen"/>chants, false Weights and Measures, &amp;c.</item>
+                           <item>2. Uttering corrupt Victuals.</item>
+                           <item>3. Usury, and all Oppres<g ref="char:EOLhyphen"/>sion.</item>
+                        </list>
+                     </item>
+                     <item>Out of the course of Trade, as Depo<g ref="char:EOLhyphen"/>pulation, Burning of Houses, Barns, &amp;c.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="19" type="table">
+            <pb facs="tcp:50062:11"/>
+            <head>
+               <hi>TABLE</hi> 19.</head>
+            <p n="5">5. Publique offences against the Passages of the Com<g ref="char:EOLhyphen"/>monwealth, as Bridges, Cawseys, High-wayes, or Streets, broken down or diged up: Unto which place may also be referred Common Nusances, Purpre<g ref="char:EOLhyphen"/>stures, &amp;c. Such Nusances any man may abate: And as to Nusances, there is a Writ in the Register for any person that will sue, when the W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>treets or Lanes of any Town, City or Borough Corporate, or the Suburbs thereof are full of dirt, soile or the like, whereby infection may be caused: And this Writ may be directed to the Major, or the like, to cause them to be cleansed, and kept clean: There is also another Writ for removing a Leper, to prevent Infection; both which Writs will come hereafter to be mentioned in their proper places.</p>
+         </div>
+         <div n="20" type="table">
+            <pb facs="tcp:50062:11"/>
+            <head>
+               <hi>TABLE</hi> 20.</head>
+            <list>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rongs or of<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ices punish<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>le by death, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>med also of<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ces against <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Crown, are
+<list>
+                     <item>Felonie, which is,
+<list>
+                           <item>Bare Felonie, where consider
+<list>
+                                 <item>The offence it self, which is
+<list>
+                                       <item>single, as
+<list>
+                                             <item>Stealth, which is the wrongfull taking of goods without pre<g ref="char:EOLhyphen"/>tence of title.</item>
+                                             <item>Man<g ref="char:EOLhyphen"/>slau<g ref="char:EOLhyphen"/>ghter
+<list>
+                                                   <item>Chance med<g ref="char:EOLhyphen"/>ley, which is manslaughter without for<g ref="char:EOLhyphen"/>mer malice.</item>
+                                                   <item>Murder, w<seg rend="sup">ch</seg> is manslaughter upon former malice.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>Mixt, as
+<list>
+                                             <item>Robberie, which is stealth from ones person by assault in the High-way.</item>
+                                             <item>Burglarie, which is the night breaking of an house, with an intent to steal or kill, though no<g ref="char:EOLhyphen"/>thing be stolne or any body killed.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>Other publique offences occa<g ref="char:EOLhyphen"/>sioned thereby, as breaking of Prison; wilfull escape of a Felon, &amp;c.</item>
+                              </list>
+                           </item>
+                           <item>Petty Treason, <hi>Tab.</hi> 21.</item>
+                        </list>
+                     </item>
+                     <item>High Treason, <hi>Tab.</hi> 22.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="21" type="table">
+            <pb facs="tcp:50062:12"/>
+            <head>
+               <hi>TABLE</hi> 21.</head>
+            <list>
+               <item>Petty trea<g ref="char:EOLhyphen"/>son, the Punish<g ref="char:EOLhyphen"/>ment whereof is burn<g ref="char:EOLhyphen"/>ing, and it is
+<list>
+                     <item>Generall
+<list>
+                           <item>against mortal creatures.
+<list>
+                                 <item>Petty Treason, (properly so cal<g ref="char:EOLhyphen"/>led) which is the killing of one to whom private obedience is due.</item>
+                                 <item>Sodomie, which is a carnall copu<g ref="char:EOLhyphen"/>lation against nature.</item>
+                              </list>
+                           </item>
+                           <item>against God.
+<list>
+                                 <item>Heresie, Which is an offence im<g ref="char:EOLhyphen"/>mediately bent against the Ma<g ref="char:EOLhyphen"/>jesty of God.</item>
+                                 <item>Sorcorie, Which is a consulting with Devils, and containeth under it Conjuring, Necroman<g ref="char:EOLhyphen"/>cie, and the like.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>More particular in respect of the Kings pre<g ref="char:EOLhyphen"/>rogative; as counterfeiting his Coyn, Seals, &amp;c. to acknowledge any forreign Potentate, to bring false money into the Realm, counterfeit to the money of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> &amp;c.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="22" type="table">
+            <head>
+               <hi>TABLE</hi> 22.</head>
+            <p>High Treason, Which is an offence of the Crown di<g ref="char:EOLhyphen"/>rectly bent against the State; also to kill the Chancel<g ref="char:EOLhyphen"/>lour, Treasurer; a Justice of either Bench, a Justice in Eyre, of Assise, or Oyer and Terminer being in their places, and doing their Offices, is High Treason.</p>
+         </div>
+         <div n="23" type="table">
+            <pb facs="tcp:50062:12"/>
+            <head>
+               <hi>TABLE</hi> 23.</head>
+            <list>
+               <item>The com<g ref="char:EOLhyphen"/>mon affe<g ref="char:EOLhyphen"/>ction, <hi>viz.</hi> Action, whereof consider
+<list>
+                     <item>The places, where it is transacted, <hi>viz.</hi> in
+<list>
+                           <item>Courts of Record, as
+<list>
+                                 <item>The Parliament.</item>
+                                 <item>Courts that have ordinary jurisdiction, and they are
+<list>
+                                       <item>Generall, whose jurisdiction ex<g ref="char:EOLhyphen"/>tends through the Realm.
+<list>
+                                             <item>Circumstances, as
+<list>
+                                                   <item>Place, where they are holden, <hi>viz.</hi> at <hi>Westminster</hi>
+                                                   </item>
+                                                   <item>Time when <hi>viz.</hi> in the Term of
+<list>
+                                                         <item>Michael<g ref="char:EOLhyphen"/>mas.</item>
+                                                         <item>Hilary.</item>
+                                                         <item>Easter.</item>
+                                                         <item>Trinity.</item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item>The seve<g ref="char:EOLhyphen"/>rall kinds
+<list>
+                                                   <item>Chancery.</item>
+                                                   <item>Kings Bench.</item>
+                                                   <item>Common place</item>
+                                                   <item>Exchequer.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>Within some County.
+<list>
+                                             <item>Through the whole County,
+<list>
+                                                   <item>The Sheriffes turn.</item>
+                                                   <item>The Coro<g ref="char:EOLhyphen"/>ners Court.</item>
+                                                </list>
+                                             </item>
+                                             <item>Within Li<g ref="char:EOLhyphen"/>berties, as
+<list>
+                                                   <item>A Leer.</item>
+                                                   <item>A Court of Pipowders.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>Granted by the Kings Let<g ref="char:EOLhyphen"/>ters Patēts
+<list>
+                                             <item>Courts by the Kings Commissi<g ref="char:EOLhyphen"/>ons.</item>
+                                             <item>Courts by Char<g ref="char:EOLhyphen"/>ter in Corporati<g ref="char:EOLhyphen"/>ons, &amp;c.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Court Barōs
+<list>
+                                 <item>The Lords
+<list>
+                                       <item>Of a Mannor.</item>
+                                       <item>Of an Hundred.</item>
+                                    </list>
+                                 </item>
+                                 <item>The Sheriffes, called the Coun<g ref="char:EOLhyphen"/>ty Court,</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The Parts, <hi>Tab.</hi> 24</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="24" type="table">
+            <pb facs="tcp:50062:13"/>
+            <head>
+               <hi>TABLE</hi> 24.</head>
+            <p>The parts of an Action are
+<list>
+                  <item>The suit, which hath 2 parts, <hi>viz.</hi>
+                     <list>
+                        <item>The begining of the suit w<seg rend="sup">ch</seg> hath 2 parts
+<list>
+                              <item>The first matter of the suite
+<list>
+                                    <item>For every man
+<list>
+                                          <item>By Writ out of the Chancery, w<seg rend="sup">ch</seg> is
+<list>
+                                                <item>Originall, which concerns
+<list>
+                                                      <item>Common Pleas, and so it is
+<list>
+                                                            <item>Reall, whereof consider
+<list>
+                                                                  <item>The Common affections, as
+<list>
+                                                                        <item>Possessorie, To recover a Possession
+<list>
+                                                                              <item>In him<g ref="char:EOLhyphen"/>selfe.</item>
+                                                                              <item>Des<g ref="char:EOLhyphen"/>cēded from his An<g ref="char:EOLunhyphen"/>cestor.</item>
+                                                                           </list>
+                                                                        </item>
+                                                                        <item>In the right, to recover a Possession mixt with the right
+<list>
+                                                                              <item>In him<g ref="char:EOLhyphen"/>selfe.</item>
+                                                                              <item>Des<g ref="char:EOLhyphen"/>cen<g ref="char:EOLhyphen"/>ded from his Ance<g ref="char:EOLhyphen"/>stor.</item>
+                                                                           </list>
+                                                                        </item>
+                                                                     </list>
+                                                                  </item>
+                                                                  <item>The severall kinds <hi>Tab.</hi> 25.</item>
+                                                               </list>
+                                                            </item>
+                                                            <item>Personall. <hi>Tab.</hi> 31.</item>
+                                                         </list>
+                                                      </item>
+                                                      <item>Appeals, <hi>Tab.</hi> 33</item>
+                                                   </list>
+                                                </item>
+                                                <item>Commissionall, <hi>Tab.</hi> 34.</item>
+                                             </list>
+                                          </item>
+                                          <item>By Plaint or Bill, <hi>Tab.</hi> 35.</item>
+                                       </list>
+                                    </item>
+                                    <item>For the King, <hi>Tab.</hi> 36.</item>
+                                 </list>
+                              </item>
+                              <item>The Originall Processe, <hi>Tab.</hi> 37.</item>
+                           </list>
+                        </item>
+                        <item>The proceeding, <hi>Tab.</hi> 40.</item>
+                     </list>
+                  </item>
+                  <item>The Judgement, <hi>Tab.</hi> 46.</item>
+               </list>
+            </p>
+         </div>
+         <div n="25" type="table">
+            <pb facs="tcp:50062:13"/>
+            <head>
+               <hi>TABLE</hi> 25.</head>
+            <p>The seve<g ref="char:EOLhyphen"/>rall kinds of a real Origi<g ref="char:EOLhyphen"/>nall Writ, &amp; so
+<list>
+                  <item>A <hi>Praecipe</hi>
+                     <list>
+                        <item>A <hi>Praecipe quod reddat</hi>
+                           <list>
+                              <item>A Plea of Land
+<list>
+                                    <item>A Writ of entry, the several kindes whereof will best appear, if we consider
+<list>
+                                          <item>Against whom it is brought, <hi>viz.</hi>
+                                             <list>
+                                                <item>Against the first partie.</item>
+                                                <item>In the degrees
+<list>
+                                                      <item>In the <hi>Per.</hi>
+                                                      </item>
+                                                      <item>In the <hi>Per</hi> and <hi>Cui.</hi>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                             </list>
+                                          </item>
+                                          <item>How it grows, <hi>viz.</hi>
+                                             <list>
+                                                <item>without wrong at the first
+<list>
+                                                      <item>Upon the determination of the first Estate, <hi>viz.</hi> by reason of
+<list>
+                                                            <item>A particular estate ended
+<list>
+                                                                  <item>
+                                                                     <hi>Ad termi<g ref="char:EOLhyphen"/>num qui preteriit.</hi>
+                                                                  </item>
+                                                                  <item>Entry, <hi>ad Communem Legem.</hi>
+                                                                  </item>
+                                                               </list>
+                                                            </item>
+                                                            <item>A Condition broken, as <hi>cau<g ref="char:EOLhyphen"/>sa Matrimonii praelocuti.</hi>
+                                                            </item>
+                                                         </list>
+                                                      </item>
+                                                      <item>Upon dis<g ref="char:EOLhyphen"/>ability of the person that made it
+<list>
+                                                            <item>
+                                                               <hi>Dum fuit infra aeta<g ref="char:EOLhyphen"/>tem.</hi>
+                                                            </item>
+                                                            <item>
+                                                               <hi>Dum fuit non compos mentis.</hi>
+                                                            </item>
+                                                         </list>
+                                                      </item>
+                                                   </list>
+                                                </item>
+                                                <item>Upon a Wrong, <hi>Tab.</hi> 26.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>A Writ shewing the Demandants Title, <hi>Tab.</hi> 27.</item>
+                                 </list>
+                              </item>
+                              <item>Another reall <hi>praecipe quod reddat, Tab.</hi> 28.</item>
+                           </list>
+                        </item>
+                        <item>A <hi>Praecipe quod faciat, Tab.</hi> 29.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>fecerit te securum, Tab.</hi> 30.</item>
+               </list>
+            </p>
+         </div>
+         <div n="26" type="table">
+            <pb facs="tcp:50062:14"/>
+            <head>
+               <hi>TABLE</hi> 26.</head>
+            <p>Upon a wr<g ref="char:EOLhyphen"/>ong, <hi>viz.</hi>
+               <list>
+                  <item>Upon a dis<g ref="char:EOLhyphen"/>con<g ref="char:EOLhyphen"/>tinu<g ref="char:EOLhyphen"/>ance.
+<list>
+                        <item>For the recoverie of a womans Inheritance or Free-hold, after her husbands alie<g ref="char:EOLhyphen"/>nation, and
+<list>
+                              <item>Death, as a <hi>Cui</hi> in <hi>vita,</hi> and for her heir, a <hi>sur cui in vita.</hi>
+                              </item>
+                              <item>Divorce, as a <hi>Cui ante divorcium.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>For the successor of a Bishop, or, &amp;c. af<g ref="char:EOLhyphen"/>ter the discontinuance of his prede<g ref="char:EOLhyphen"/>cessor, as a <hi>sine assensu capituli.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>An Ou<g ref="char:EOLhyphen"/>ster
+<list>
+                        <item>Upon an intrusion, as a Writ of inttusion for him in reversion or remainder.</item>
+                        <item>Upon a disseisin, as a Writ of entry in the <hi>Quibus;</hi> being a Writ in the nature of an Assise.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="27" type="table">
+            <head>
+               <hi>TABLE</hi> 27,</head>
+            <p>A Writ shewing the De<g ref="char:EOLhyphen"/>mandants title, which is
+<list>
+                  <item>Possessorie as a Writ of
+<list>
+                        <item>Ayell, after the death of the Grandfather or Grandmother.</item>
+                        <item>Besayell, after the death of the Great-Grandfather or Great-Grandmother.</item>
+                        <item>Cosinage, after the death of the Great-Great-Grandfather, or Great-Great-Grādmother, &amp;c.</item>
+                     </list>
+                  </item>
+                  <item>In the right
+<list>
+                        <item>A Writ of right in his nature, as a
+<list>
+                              <item>Form<g ref="char:EOLhyphen"/>don in
+<list>
+                                    <item>Remainder.</item>
+                                    <item>Reverter.</item>
+                                 </list>
+                              </item>
+                              <item>Writ of Escheat.</item>
+                              <item>Writ of Dower, <hi>unde nihil habet.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>A Praecipe in capite, for the meer right of Lands holden in chiefe.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="28" type="table">
+            <pb facs="tcp:50062:14"/>
+            <head>
+               <hi>TABLE</hi> 28.</head>
+            <p>Another reall praecipe <hi>quod reddat,</hi> in re<g ref="char:EOLhyphen"/>spect of a seig<g ref="char:EOLhyphen"/>niorie, as
+<list>
+                  <item>A Writ of right of Ward, to recover the Wardship.</item>
+                  <item>A Writ of right for disclaimer, for the Lord to prove the Lands to be holden of him, when the Tenant in a Court of record disclaimeth to hold of him.</item>
+               </list>
+            </p>
+         </div>
+         <div n="29" type="table">
+            <head>
+               <hi>TABLE</hi> 29.</head>
+            <p>A reall praecipe, <hi>quod faci<g ref="char:EOLhyphen"/>at,</hi> which is either to recover an
+<list>
+                  <item>Heredita<g ref="char:EOLhyphen"/>ment, and this is ei<g ref="char:EOLhyphen"/>ther
+<list>
+                        <item>In respect of a Seig<g ref="char:EOLhyphen"/>niorie
+<list>
+                              <item>A Writ, <hi>de consue<g ref="char:EOLhyphen"/>tudinibus &amp; ser<g ref="char:EOLhyphen"/>vitiis</hi>
+                              </item>
+                              <item>
+                                 <hi>Secta ad molendi<g ref="char:EOLhyphen"/>num.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>To recover som other heredita.
+<list>
+                              <item>A <hi>Quare Impedit.</hi>
+                              </item>
+                              <item>A <hi>Quod permittat.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Some reall thing that concerns an hereditamēt, as
+<list>
+                        <item>
+                           <hi>A Curia claudenda.</hi>
+                        </item>
+                        <item>A Writ of Covenant, as to leavie a fine of Lands, &amp;c.</item>
+                        <item>Writs in the nature of a co<g ref="char:EOLhyphen"/>venant reall
+<list>
+                              <item>A Writ of Mesne.</item>
+                              <item>A <hi>Warantia Cartae.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="30" type="table">
+            <pb facs="tcp:50062:15"/>
+            <head>
+               <hi>TABLE</hi> 30.</head>
+            <list>
+               <item>A reall <hi>si fecerit te securum</hi>
+                  <list>
+                     <item>An Assise
+<list>
+                           <item>Of his own possession, as
+<list>
+                                 <item>An Assise of novel dis<g ref="char:EOLhyphen"/>seisin.</item>
+                                 <item>An Assise of Nusance.</item>
+                              </list>
+                           </item>
+                           <item>Of his Ancestors possession, as an As<g ref="char:EOLhyphen"/>sise of <hi>Mortdancestor.</hi>
+                           </item>
+                           <item>Either of his own or his Ancestors pos<g ref="char:EOLhyphen"/>session, as an Assise of Darrein pre<g ref="char:EOLhyphen"/>sentment.</item>
+                        </list>
+                     </item>
+                     <item>A <hi>Juris utrum,</hi> for a Parson or Vicar, upon his predecessors alienation.</item>
+                     <item>Others
+<list>
+                           <item>Such as be between privies in blood, as
+<list>
+                                 <item>A <hi>partitione faci<g ref="char:EOLhyphen"/>enda.</hi>
+                                 </item>
+                                 <item>A <hi>nuper obiit.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>A <hi>Quo jure,</hi> to trie for Common.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="31" type="table">
+            <head>
+               <hi>TABLE</hi> 31.</head>
+            <list>
+               <item>A personal originall Writ is also
+<list>
+                     <item>A <hi>Praecipe</hi>
+                        <list>
+                           <item>
+                              <hi>A Praecipe quod reddat</hi>
+                              <list>
+                                 <item>Debt, and a Writ of Annu<g ref="char:EOLhyphen"/>ity.</item>
+                                 <item>Detinue.</item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>A Praecipe quod faciat</hi>
+                              <list>
+                                 <item>An Action of Accompt.</item>
+                                 <item>An Action of Covenant.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>A <hi>Si fecerit te securum, Tab.</hi> 32.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="32" type="table">
+            <pb facs="tcp:50062:15"/>
+            <head>
+               <hi>TABLE</hi> 32:</head>
+            <list>
+               <item>A personal <hi>si f<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>t te securum,</hi> which is
+<list>
+                     <item>Without force
+<list>
+                           <item>Where the peace is not broken
+<list>
+                                 <item>1. <hi>Rationabili parte bonorum.</hi>
+                                 </item>
+                                 <item>2. <hi>Valore Maritagii.</hi>
+                                 </item>
+                                 <item>3. Writ of forfeiture of marriage.</item>
+                                 <item>4. Intrusion of Ward.</item>
+                                 <item>5. <hi>Electione custodiae.</hi>
+                                 </item>
+                                 <item>6. <hi>Quare ejecit infra terminum.</hi>
+                                 </item>
+                                 <item>7. Trespasses upon the Case, not a<g ref="char:EOLhyphen"/>gainst the peace.</item>
+                              </list>
+                           </item>
+                           <item>Where the peace is brokē, yet not <hi>Vi,</hi> as
+<list>
+                                 <item>An Action of deceit.</item>
+                                 <item>An Action of conspi<g ref="char:EOLhyphen"/>racie.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>With force
+<list>
+                           <item>An Action of Trespasse.</item>
+                           <item>Speciall Acti<g ref="char:EOLhyphen"/>ons of Trespas, as
+<list>
+                                 <item>
+                                    <hi>De parco fracto.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rescous.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ejectione fir<g ref="char:EOLhyphen"/>mae.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="33" type="table">
+            <head>
+               <hi>TABLE</hi> 33.</head>
+            <p>An Appeal which concerneth life, and is the parties pri<g ref="char:EOLhyphen"/>vate action, prosecuting also for the Crown, in re<g ref="char:EOLhyphen"/>spect of a Felonie; And this is given only to the heire of the partie slain,</p>
+         </div>
+         <div n="34" type="table">
+            <pb facs="tcp:50062:16"/>
+            <head>
+               <hi>TABLE</hi> 34</head>
+            <list>
+               <item>A Commissio<g ref="char:EOLhyphen"/>nall Writ, which is either
+<list>
+                     <item>Commissionarie, as
+<list>
+                           <item>A Writ of right Patent.</item>
+                           <item>A <hi>Justici<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>s</hi>
+                              <list>
+                                 <item>An assise of petty nusance.</item>
+                                 <item>Ad measurement of Dower.</item>
+                                 <item>Ad measurement of Pasture.</item>
+                                 <item>
+                                    <hi>A nativo habendo.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>A Rationabilibus divisis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>A homine replegiando,</hi>
+                                 </item>
+                                 <item>A Replevin.</item>
+                                 <item>Also many of the actions that went before; as <hi>Consuetudi<g ref="char:EOLhyphen"/>nibus &amp; Servitiis, serta ad molendinum, Quod permittat,</hi> Mesne, Dower <hi>unde nihil habet,</hi> Annuitie, Debt, Deti<g ref="char:EOLhyphen"/>nue, Covenant, Trespass, &amp;c. to what summe soever may be brought and also deter<g ref="char:EOLhyphen"/>mined in the County by Ju<g ref="char:EOLhyphen"/>sticies.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Meer Commis<g ref="char:EOLhyphen"/>sions, as
+<list>
+                           <item>
+                              <hi>Oyer and Terminer.</hi>
+                           </item>
+                           <item>Association.</item>
+                           <item>
+                              <hi>Si non omnes.</hi>
+                           </item>
+                           <item>
+                              <hi>Ad quod damnum.</hi>
+                           </item>
+                           <item>
+                              <hi>Perambulatione facien<g ref="char:EOLhyphen"/>da.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="35" type="table">
+            <head>
+               <hi>TABLE</hi> 35.</head>
+            <list>
+               <item>In Courts that hold plea without original Writ, the suite may be by
+<list>
+                     <item>Plaint, in matters that concern Common pleas.</item>
+                     <item>Bill, In pleas of the Crown; also Officers of any Court (by pri<g ref="char:EOLhyphen"/>viledge) may sue or be sued there, and not elsewhere by Bil.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="36" type="table">
+            <pb facs="tcp:50062:16"/>
+            <head>
+               <hi>TABLE</hi> 36.</head>
+            <list>
+               <item>Suits for the King are
+<list>
+                     <item>A <hi>Quo warranto,</hi> for the trying of the right of Franchises.</item>
+                     <item>An in<g ref="char:EOLunhyphen"/>quiry by a Jury, w<seg rend="sup">ch</seg> is an
+<list>
+                           <item>Office to entitle the King to some pos<g ref="char:EOLhyphen"/>session, whereof consider
+<list>
+                                 <item>The severall wayes how it may be found, <hi>viz. virtute officii, Brevis,</hi> &amp; <hi>Commissionis</hi>
+                                 </item>
+                                 <item>The severall Writs or Commissions used therein concerning a Wardship, <hi>viz.</hi>
+                                    <list>
+                                       <item>For finding of it
+<list>
+                                             <item>
+                                                <hi>Diem clausit ex<g ref="char:EOLhyphen"/>tremum,</hi> within the year after the tenants death.</item>
+                                             <item>
+                                                <hi>Mandamus,</hi> after the year.</item>
+                                             <item>
+                                                <hi>Devenerunt,</hi> whē the Ancestor di<g ref="char:EOLhyphen"/>ed in Ward to the King.</item>
+                                          </list>
+                                       </item>
+                                       <item>For mend<g ref="char:EOLhyphen"/>ing it
+<list>
+                                             <item>
+                                                <hi>Que plura.</hi>
+                                             </item>
+                                             <item>
+                                                <hi>Melius Inqui<g ref="char:EOLhyphen"/>rendum.</hi>
+                                             </item>
+                                             <item>
+                                                <hi>Datum est no<g ref="char:EOLhyphen"/>bis intelligi.</hi>
+                                             </item>
+                                          </list>
+                                       </item>
+                                       <item>For discharge of it
+<list>
+                                             <item>An <hi>aetate pro<g ref="char:EOLhyphen"/>banda.</hi>
+                                             </item>
+                                             <item>A Writ of Li<g ref="char:EOLhyphen"/>very, for lāds <hi>in Capite.</hi>
+                                             </item>
+                                             <item>An <hi>Ouster le main,</hi> for o<g ref="char:EOLhyphen"/>ther Knight-service lāds.</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>How the party may be relieved against it
+<list>
+                                       <item>By traverse, or Mon<g ref="char:EOLhyphen"/>strans <hi>de droit,</hi> when the King is intitled by Office only.</item>
+                                       <item>By Petition, when he is entitled by double matter of record, as when the Office finds an Attainder of Trea<g ref="char:EOLhyphen"/>son, or the like.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Presentment, or indictment, to finde an offence against the King, and for penal Laws, an Information.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="37" type="table">
+            <pb facs="tcp:50062:17"/>
+            <head>
+               <hi>TABLE</hi> 37.</head>
+            <p>The Originall Processe, which is
+<list>
+                  <item>Proper
+<list>
+                        <item>Single
+<list>
+                              <item>By the Possessions
+<list>
+                                    <item>By the Land
+<list>
+                                          <item>In all real prae<g ref="char:EOLhyphen"/>cipes <hi>quod red<g ref="char:EOLhyphen"/>dat.</hi>
+                                             <list>
+                                                <item>Summons in Land.</item>
+                                                <item>Grand Cape, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> seise it into th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> Kings hands.</item>
+                                             </list>
+                                          </item>
+                                          <item>
+                                             <hi>A mortdance<g ref="char:EOLhyphen"/>ster, Juris utrum &amp; darrein pre<g ref="char:EOLhyphen"/>sentment.</hi>
+                                             <list>
+                                                <item>Summons.</item>
+                                                <item>Re-summons, &amp; upon defaul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap> the Inquest a<g ref="char:EOLhyphen"/>warded.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>By the goods, as in Assises of novel Disseisin and Nusance, Attachmen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap> by the defendants goods, which h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                          <desc>•…</desc>
+                                       </gap> shall lose if he appear not, &amp; upon default the Inquest awarded.</item>
+                                 </list>
+                              </item>
+                              <item>By the person (in Mayhem, Felonie, and Treason) <hi>Cap. Exig.</hi> Outlawry.</item>
+                           </list>
+                        </item>
+                        <item>Mixt
+<list>
+                              <item>By the goods and Lands
+<list>
+                                    <item>In all other reall a<g ref="char:EOLhyphen"/>ctions, &amp; in all per<g ref="char:EOLhyphen"/>sonal actions (except Trespas &amp; offences against the publike) &amp; also in all Justicies
+<list>
+                                          <item>Sūmons by the goods.</item>
+                                          <item>Attachment.</item>
+                                          <item>Distresse Infi<g ref="char:EOLhyphen"/>nite, and is<g ref="char:EOLhyphen"/>sues of the Land.</item>
+                                       </list>
+                                    </item>
+                                    <item>In all Trespasses upon the Case (except deceit &amp; con<g ref="char:EOLhyphen"/>spiracie) and in all offen<g ref="char:EOLhyphen"/>ces in the nature of trespas<g ref="char:EOLhyphen"/>ses upon the Case.
+<list>
+                                          <item>Attach<g ref="char:EOLhyphen"/>ment.</item>
+                                          <item>Distresse infinite and is<g ref="char:EOLhyphen"/>sues.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>By the goods and person, as in Trespasse <hi>vi,</hi> deceit, conspiracie, and offences a<g ref="char:EOLhyphen"/>gainst the publique; Attachment, Di<g ref="char:EOLhyphen"/>stresse infinite, and upon <hi>nihil</hi> returned 3 <hi>Capias, Exigent,</hi> Outlarie.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Improper, <hi>Tab.</hi> 38.</item>
+               </list>
+            </p>
+         </div>
+         <div n="38" type="table">
+            <pb facs="tcp:50062:17"/>
+            <head>
+               <hi>TABLE</hi> 38.</head>
+            <p>
+               <hi>Improper, which is not to bring any matter into plea, or solemne action, but only to do or leave undone something, and it is</hi>
+               <list>
+                  <item>
+                     <hi>Commaundatorie, as</hi>
+                     <list>
+                        <item>Dote assignanda.</item>
+                        <item>Homagio capiendo.</item>
+                        <item>Scutagio habendo.</item>
+                        <item>De Corrodio habendo</item>
+                        <item>De Annua pensione hab.</item>
+                        <item>De Libertatibus alloc.</item>
+                        <item>De executione Judicii.</item>
+                        <item>De restitutione Temporalium.</item>
+                        <item>De securitate pacis.</item>
+                        <item>De vi laica removenda.</item>
+                        <item>
+                           <hi>Of cleansing streets.</hi>
+                        </item>
+                        <item>De excomunicato capiendo.</item>
+                        <item>De excomunicato deliberādo</item>
+                        <item>De leproso amovendo.</item>
+                        <item>De cautione admittenda.</item>
+                        <item>De heretico comburendo.</item>
+                        <item>De Coronatore exonerando.</item>
+                        <item>De Coronatore eligendo</item>
+                        <item>De exoner. vir. forest.</item>
+                        <item>De Electione vir. forest.</item>
+                        <item>
+                           <hi>A Writ for the Royall assent, to elect an Abbot.</hi>
+                        </item>
+                        <item>De securitate invenienda.</item>
+                        <item>
+                           <hi>All</hi> dedimus potestatems, de fine levando, de attornato faciendo, &amp;c.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Prohibitorie,</hi> Tab. <hi>39.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="39" type="table">
+            <pb facs="tcp:50062:18"/>
+            <head>
+               <hi>TABLE</hi> 39,</head>
+            <p>Prohibito<g ref="char:EOLhyphen"/>rie, as
+<list>
+                  <item>1. A Protection, <hi>cum clausula nolumus,</hi> to free ones possessions, that nothing be taken against his vvill for the Kings businesse.</item>
+                  <item>2. To discharge spirituall persons of Fif<g ref="char:EOLhyphen"/>teens.</item>
+                  <item>3. <hi>Quod clerici non eligantur in Officium balivi, &amp;c.</hi>
+                  </item>
+                  <item>4. To forbid Tenant in Dovver, by the Cur<g ref="char:EOLhyphen"/>tesie, or Guardian by Knight service, or in Soccage to commit Wast to the destructi<g ref="char:EOLhyphen"/>on of the Inheritance.</item>
+                  <item>5. A <hi>Quo minus,</hi> for grantee of estovers, to restrain the grantors from committing vvaste, so as he cannot have his Esto<g ref="char:EOLhyphen"/>vers.</item>
+                  <item>6. <hi>De exoneratione sectae,</hi> for Tenants by suit of Court or other services, that they be not distrained to do the same for such time, as they ought to hold the Land discharged.</item>
+                  <item>7. <hi>De deonerando pro rata,</hi> to discharge the Tenant of parcell of the Land according to the rate of his Land, vvhen he is law<g ref="char:EOLhyphen"/>fully distrained for all the rent and ser<g ref="char:EOLhyphen"/>vices.</item>
+                  <item>8. <hi>De essendo quieto de Thelonio.</hi>
+                  </item>
+                  <item>9. <hi>De non ponendo in Juratis.</hi>
+                  </item>
+                  <item>10. <hi>Ne exeas regnum.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="40" type="table">
+            <pb facs="tcp:50062:18"/>
+            <head>
+               <hi>TABLE</hi> 40.</head>
+            <p>The Pro<g ref="char:EOLhyphen"/>ceed<g ref="char:EOLhyphen"/>ing, which con<g ref="char:EOLhyphen"/>sists in
+<list>
+                  <item>The Count, or Declaration.</item>
+                  <item>The pleading, which Pleas are
+<list>
+                        <item>The Defendants first pleas, <hi>viz.</hi>
+                           <list>
+                              <item>Dilatorie, by taking
+<list>
+                                    <item>Exceptions
+<list>
+                                          <item>In disa<g ref="char:EOLhyphen"/>bility
+<list>
+                                                <item>To the jurisdiction of the Court.</item>
+                                                <item>To the person.</item>
+                                             </list>
+                                          </item>
+                                          <item>In Abatement
+<list>
+                                                <item>To the Writ, as default of form, false Latine, &amp;c. and here, if the default be not caused by the Plaintiffe, a new Writ may be had by <hi>journeys accounts,</hi>
+                                                </item>
+                                                <item>To the Count, as insuffi<g ref="char:EOLhyphen"/>ciencie, variance from the Writ, &amp;c.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>Forain advantages
+<list>
+                                          <item>In all actions, as Oyer of the Writ, condition, &amp;c.</item>
+                                          <item>In reall acti<g ref="char:EOLhyphen"/>ons, as
+<list>
+                                                <item>View.</item>
+                                                <item>Ayde prayer,</item>
+                                                <item>Voucher.</item>
+                                             </list>
+                                          </item>
+                                          <item>In certain personal actions
+<list>
+                                                <item>Garnishment.</item>
+                                                <item>Enterpleader, vvhich may also be in a <hi>Quare impedit.</hi>
+                                                </item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>Sanctuarie, and there continuing, <hi>viz.</hi> for Treason, and other capi<g ref="char:EOLhyphen"/>tal offences.</item>
+                                 </list>
+                              </item>
+                              <item>To the a<g ref="char:EOLhyphen"/>ction, as
+<list>
+                                    <item>Pleas in Barre.</item>
+                                    <item>Confessions, to vvhich place Abjuration may be referred, vvhen one guilty of Bare Fe<g ref="char:EOLhyphen"/>lonie flyeth to the Church, &amp;c, and there before the Coroner confesseth the Fact, and abjures the Realm.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>The mutual pleas of Plaintif &amp; Defen. <hi>Tab.</hi> 41</item>
+                     </list>
+                  </item>
+                  <item>Other mean acts, <hi>Tab.</hi> 42.</item>
+               </list>
+            </p>
+         </div>
+         <div n="41" type="table">
+            <pb facs="tcp:50062:19"/>
+            <head>
+               <hi>TABLE</hi> 41.</head>
+            <list>
+               <item>The mutu<g ref="char:EOLhyphen"/>al pleas of Plaintiffe and De<g ref="char:EOLhyphen"/>fendant, <hi>viz.</hi>
+                  <list>
+                     <item>The delating before issue, as replication, re<g ref="char:EOLhyphen"/>joynder, sur-rejoynder, &amp;c.</item>
+                     <item>The issue it selfe
+<list>
+                           <item>Of the fact, and then the triall is
+<list>
+                                 <item>1. Of a matter done in the Country, by Ju<g ref="char:EOLhyphen"/>ry, where challen<g ref="char:EOLhyphen"/>ges are allowed, <hi>viz.</hi>
+                                    <list>
+                                       <item>To the Ar<g ref="char:EOLhyphen"/>ray.</item>
+                                       <item>To the Pols.</item>
+                                    </list>
+                                 </item>
+                                 <item>2. In Writs of right or appeals for life, by Battail.</item>
+                                 <item>3. In a Writ of Dower (when the issue is taken upon the death of her husband) by witnesse.</item>
+                                 <item>4. By wa<g ref="char:EOLhyphen"/>ger of Law.
+<list>
+                                       <item>1. When the Tenant in a reall <hi>praecipe quod reddat</hi> was not summoned.</item>
+                                       <item>2. In meer personal actions growing without deed or privity of others.</item>
+                                       <item>3. In plaints in Court Ba<g ref="char:EOLhyphen"/>rons.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Of the Law, as a Demurrer, which is, when (admitting the matters alleadg<g ref="char:EOLhyphen"/>ed) either of them resteth in the Judgement of the Law.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="42" type="table">
+            <pb facs="tcp:50062:19"/>
+            <head>
+               <hi>TABLE</hi> 42:</head>
+            <list>
+               <item>Other mean Acts, as
+<list>
+                     <item>1. Appearance, where, ofessoīs, which are
+<list>
+                           <item>Common, as <hi>Essoine de mal venir.</hi>
+                           </item>
+                           <item>Speciall
+<list>
+                                 <item>1. of going beyond Sea.</item>
+                                 <item>2. Of going <hi>ad terram San<g ref="char:EOLhyphen"/>ctam.</hi>
+                                 </item>
+                                 <item>3. Of the Kings service.</item>
+                                 <item>4. <hi>De malo lecti.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>2. Continuance
+<list>
+                           <item>By Processe.</item>
+                           <item>Upon the Roll
+<list>
+                                 <item>
+                                    <hi>Dies datus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Emparlance.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3. Judiciall processe
+<list>
+                           <item>A mesne processe, which is for any ne<g ref="char:EOLhyphen"/>cessary act to be done, as against Vouchee, prayee in aide, also
+<list>
+                                 <item>1. Upon a fine leavied to compel attorn<g ref="char:EOLhyphen"/>ment, as
+<list>
+                                       <item>1. <hi>Per quae servi<g ref="char:EOLhyphen"/>tia.</hi>
+                                       </item>
+                                       <item>2. <hi>Quem redditum reddit.</hi>
+                                       </item>
+                                       <item>3. <hi>Quid juris cla<g ref="char:EOLhyphen"/>mat.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>2. In Petitions, a Writ of search.</item>
+                                 <item>3. In real <hi>praecipes,</hi> upon a default, a petty Cape.</item>
+                                 <item>4. Upon default after Voucher, a Petty Cape <hi>ad valentiam.</hi>
+                                 </item>
+                                 <item>5. In such as are for other Heredi<g ref="char:EOLhyphen"/>taments, upon default, a distress.</item>
+                                 <item>6. Against Jurors
+<list>
+                                       <item>1. A <hi>Venire facias.</hi>
+                                       </item>
+                                       <item>2. A <hi>Habeas Corpora.</hi>
+                                       </item>
+                                       <item>3. A Distresse infinite,</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Processe in nature of new Originals, <hi>Tab.</hi> 43.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="43" type="table">
+            <pb facs="tcp:50062:20"/>
+            <head>
+               <hi>TABLE</hi> 43.</head>
+            <list>
+               <item>Processe in the nature of new O<g ref="char:EOLhyphen"/>riginals, and they are
+<list>
+                     <item>Commaundatorie, <hi>viz.</hi> such as command something to be done
+<list>
+                           <item>1. Resommons, re-attachment.</item>
+                           <item>2. All certificatorie Writs.</item>
+                           <item>3. A Certiorari to remove a Record into the Chancery.</item>
+                           <item>4. Writs to remove suits
+<list>
+                                 <item>By Writ, as a
+<list>
+                                       <item>Tolt, to remove a Writ of right out of the Lords into the County Court.</item>
+                                       <item>Pone, to remove out of the Lords court into the common Place in all other cāses.</item>
+                                    </list>
+                                 </item>
+                                 <item>by Plaint, as a
+<list>
+                                       <item>
+                                          <hi>Recordare,</hi> to remove Plaints in the County Court.</item>
+                                       <item>
+                                          <hi>Accedas ad curiam,</hi> to remove plaints in a Court Baron.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>5. A Mittimus, to send a record out of the Chancery into another Court of Record.</item>
+                           <item>6. A Procedendo, to proceed in suits.</item>
+                           <item>7. A Consultation, to proceed in the Spirituall Court.</item>
+                           <item>8. A Writ of Mainprise, to set one at liberty upon baile.</item>
+                           <item>9. <hi>&amp;c. Tab.</hi> 44.</item>
+                        </list>
+                     </item>
+                     <item>Prohibitorie Writs, <hi>Tab.</hi> 45.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="44" type="table">
+            <pb facs="tcp:50062:20"/>
+            <head>
+               <hi>TABLE</hi> 44.</head>
+            <list>
+               <item>9. A Recaption for him, whose goods are distrained for the same thing.</item>
+               <item>10. A Writ <hi>de Magna Assisa eligenda.</hi>
+               </item>
+               <item>11. A Certificat of Assise to Jurors, to give a more per<g ref="char:EOLhyphen"/>fect Verdict.</item>
+               <item>12. A <hi>Proprietate probanda.</hi>
+               </item>
+            </list>
+         </div>
+         <div n="45" type="table">
+            <head>
+               <hi>TABLE</hi> 45.</head>
+            <list>
+               <item>Prohibito<g ref="char:EOLhyphen"/>rie Writs, or Process, as
+<list>
+                     <item>1. Prohibitions, of this kinde is an <hi>In<g ref="char:EOLhyphen"/>dicavit.</hi>
+                     </item>
+                     <item>2. A Supersedi<g ref="char:EOLhyphen"/>as, of which kinde are
+<list>
+                           <item>1. A Writ of peace.</item>
+                           <item>2. A <hi>Libertate probanda.</hi>
+                           </item>
+                           <item>3. An <hi>Identitate nominis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>3. Protections <hi>cum clausula volumus,</hi> as
+<list>
+                           <item>
+                              <hi>Protectio, quia profecturus.</hi>
+                           </item>
+                           <item>
+                              <hi>Protectio, quia moratur,</hi> whither also may be re<g ref="char:EOLhyphen"/>ferred, <hi>Protectio, quia in prisona.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>4. <hi>Essoine de malo lecti.</hi>
+                     </item>
+                     <item>5. A <hi>ne admittas.</hi>
+                     </item>
+                     <item>6. A <hi>quare incumbravit.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="46" type="table">
+            <pb facs="tcp:50062:21"/>
+            <head>
+               <hi>TABLE</hi> 46.</head>
+            <list>
+               <item>Judgemēt, w<seg rend="sup">ch</seg> hath Judicial Writs be<g ref="char:EOLhyphen"/>longing to it, <hi>viz.</hi>
+                  <list>
+                     <item>Meer Judiciall, and they are
+<list>
+                           <item>Such as lie within a year and a day after the Judgement
+<list>
+                                 <item>in real actions
+<list>
+                                       <item>1. <hi>Habere facias seisinam,</hi> to put him in possession upon a free hold recovered.</item>
+                                       <item>2. A Writ to the Bishop to admit ones Clerk.</item>
+                                    </list>
+                                 </item>
+                                 <item>In personall actions to have execution of his
+<list>
+                                       <item>Possessions, as
+<list>
+                                             <item>1. <hi>Fieri facias,</hi> to levie execution upon his Chattels.</item>
+                                             <item>2. <hi>Leva<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                                      <desc>••</desc>
+                                                   </gap> facias,</hi> to levie execution of the profits of his Land, and Chat<g ref="char:EOLhyphen"/>tels.</item>
+                                             <item>3. <hi>Habere facias possessio<g ref="char:EOLhyphen"/>nem,</hi> upon recovery of a term for years in an <hi>Ejectione firmae, &amp;c.</hi>
+                                             </item>
+                                             <item>4. A <hi>Dist<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                                      <desc>••</desc>
+                                                   </gap>ng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                                      <desc>•</desc>
+                                                   </gap>s,</hi> for the Kings amerciamēs, &amp;c.</item>
+                                          </list>
+                                       </item>
+                                       <item>Bodie, as
+<list>
+                                             <item>
+                                                <hi>Capias ad satisfaciendum.</hi>
+                                             </item>
+                                             <item>
+                                                <hi>Capias pro fine Regis.</hi>
+                                                <list>
+                                                   <item>For the King.</item>
+                                                </list>
+                                             </item>
+                                             <item>
+                                                <hi>Capias Ʋtla<g ref="char:EOLhyphen"/>gatum.</hi>
+                                                <list>
+                                                   <item>For the King.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>A <hi>Scire facias,</hi> to warne the defendant after a year upon recovery in reall actions, to shew cause why the plain<g ref="char:EOLhyphen"/>tiffe should not have execution.</item>
+                        </list>
+                     </item>
+                     <item>New Originals, <hi>Tab,</hi> 47.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div n="47" type="table">
+            <pb facs="tcp:50062:21"/>
+            <head>
+               <hi>TABLE</hi> 47.</head>
+            <list>
+               <item>New Originals in the nature of Judici<g ref="char:EOLhyphen"/>all Writs, to order some matters con<g ref="char:EOLhyphen"/>cerning Judgements, and these are groun<g ref="char:EOLhyphen"/>ded
+<list>
+                     <item>Upon an Error
+<list>
+                           <item>A Writ of Error, which is up<g ref="char:EOLhyphen"/>on an Error in a Court of Record.</item>
+                           <item>A Writ of false Judgement, which is upon an error in a base Court.</item>
+                        </list>
+                     </item>
+                     <item>Otherwise, as
+<list>
+                           <item>Attaint, which is to enquire, whether a Jury of 12 men gave a false Verdict.</item>
+                           <item>
+                              <hi>Audita querela,</hi> which is for one being, or to be in exe<g ref="char:EOLhyphen"/>cution, to relieve him upon good matter of discharge which he hath no means t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> plead.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="table">
+            <pb facs="tcp:50062:22"/>
+            <head>A TABLE shewing the Pages in the English Copie of Sir <hi>Henry Finches</hi> Treatise of the Law, from whence each Tablet takes its beginning.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Table</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Page</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>106</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>111</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>130</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>134</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>155</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>159</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>164</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>167</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>184</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>190</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>198</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>205</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell rows="4">
+                        <hi>These are taken out of the Fre<g ref="char:EOLunhyphen"/>nch copie being omit<g ref="char:EOLunhyphen"/>ed in the English.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>206</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>218</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>221</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>225</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>249</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>252</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>264</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>266</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>269</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>272</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>284</cell>
+                  </row>
+                  <pb facs="tcp:50062:22"/>
+                  <row>
+                     <cell>31</cell>
+                     <cell>294</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>303</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>310</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>312</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>320</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>322</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>343</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>490</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>502</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>356</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>390</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>427</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>441</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>446</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>450</cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>459</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>478</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
